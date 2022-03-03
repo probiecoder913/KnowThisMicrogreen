@@ -13,7 +13,7 @@ body{
     font-family: 'Poppins', sans-serif;
     background: rgb(104, 159, 56);
 }
-img{
+.content img{
     width: auto;
     height: auto;
     max-width: 40rem;
@@ -48,6 +48,9 @@ footer{
     width: 100%;
     text-align: center;
     font-size: larger;
+}
+footer img{
+    width: 40px;
 }
 @media only screen and (max-width: 768px) {
     *{
