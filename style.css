@@ -25,7 +25,7 @@ h1{
     position: relative;
     width: auto;
     padding: 2rem;
-    color: #064635;
+    color: #103128;
     text-align: center;
     font-size: 4rem;
     text-shadow: white 5px 0px 5px;
@@ -72,7 +72,7 @@ footer{
         font-size: 4rem;
     }
     img{
-        width: 95vw;
+        width: 95%;
         height: calc((3/4)*95vw);
     }
     .content{
@@ -83,7 +83,7 @@ footer{
     p{
         padding: 1rem;
         font-size: 1.5rem;
-        width: 90vw;
+        width: 90%;
         margin: auto;
     }    
 }
