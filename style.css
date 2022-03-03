@@ -62,14 +62,18 @@ p{
         text-align: center;
         font-size: 4rem;
     }
+    img{
+        width: 95vw;
+        height: calc((3/4)*95vw);
+    }
     .content{
         display: flex;
         flex-direction: column;
-        padding: 2rem;
+        padding: 1rem;
     }
     p{
         padding: 1rem;
-        font-size: 2rem;
+        font-size: 1rem;
         width: 90vw;
         margin: auto;
     }    
